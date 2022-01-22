@@ -1,0 +1,6 @@
+yam123;AMG5123;Tang;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021|15:00;     -     ;Check-IN OPEN
+tang;AMG5123;Tang Zhi Siang;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021|15:00;     -     ;Check-IN OPEN
+tang;AMG5123;Tang Zhi Siang;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021|15:00;     -     ;Check-IN OPEN
+tang;AMG5123;Tang Zhi Siang;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021|15:00;23-November-2021|6:00;Check-IN OPEN
+wkh;AMG1875;Wong Kien Haw;Kuala Lumpur; Malaysia;Penang; Malaysia;26-November-2021|15:00;     -     ;Check-IN OPEN
+wkh;AMG5123;Wong Kien Pig;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021|15:00;23-November-2021|6:00;Check-IN OPEN

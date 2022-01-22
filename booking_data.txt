@@ -1,0 +1,6 @@
+yam123;AMG5123;Tang;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021|15:00;     -     ;1;0;0;1;['First Class'];200;['10 KG'];30;['Window'];10;1;15;41.0;270;311.0;3110.0;1234567890123456;123;01;21
+tang;AMG5123;Tang Zhi Siang;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021|15:00;     -     ;1;0;0;1;['First Class'];200;[0];0;['Extra Legroom'];20;1;15;41.0;235.0;276.0;2760.0;1234567890123456;123;12;21
+tang;AMG5123;Tang Zhi Siang;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021|15:00;     -     ;1;0;0;1;['First Class'];200;[0];0;['Extra Legroom'];20;1;15;41.0;235.0;276.0;2760.0;1234567890123456;123;12;21
+tang;AMG5123;Tang Zhi Siang;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021|15:00;23-November-2021|6:00;1;0;0;1;['First Class'];400;[0];0;['Extra Legroom'];40;1;30;82.0;470.0;552.0;5520.0;1234567890123456;123;12;21
+wkh;AMG1875;Wong Kien Haw;Kuala Lumpur; Malaysia;Penang; Malaysia;26-November-2021|15:00;     -     ;2;0;0;2;['Business', 'First Class'];300;['10 KG', '15 KG'];105;['Aisle', 'Extra Legroom'];35;1;15;164.0;455.0;619.0;6190.0;1234567890123456;187;12;21
+wkh;AMG5123;Wong Kien Pig;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021|15:00;23-November-2021|6:00;2;0;0;2;['Economy', 'Business'];200;[0, '10 KG'];90;['Aisle', 'Aisle'];60;1;30;164.0;380.0;544.0;5440.0;1234567890123456;123;11;25

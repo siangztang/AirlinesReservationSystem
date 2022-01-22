@@ -1,0 +1,34 @@
+AMG5123;Kuala Lumpur; Malaysia;Penang; Malaysia;20-November-2021;23-November-2021;15:00;6:00;MYR41;0.89
+AMG5752;Kuala Lumpur; Malaysia;Johor Bahru; Malaysia;24-November-2021;27-November-2021;13:00;8:00;MYR38;0.82
+AMG8332;Kuala Lumpur; Malaysia;Dhaka; Bangladesh;22-November-2021;27-November-2021;15:00;18:00;MYR431;9.42
+AMG8567;Kuala Lumpur; Malaysia;Shanghai; China;21-November-2021;29-November-2021;12:00;9:00;MYR428;9.37
+AMG7532;Kuala Lumpur; Malaysia;Bali; Indonesia;23-November-2021;30-November-2021;5:00;9:00;MYR326;7.13
+AMG9127;Kuala Lumpur; Malaysia;Vientiane; Laos;19-November-2021;26-November-2021;4:00;15:00;MYR213;4.65
+AMG6783;Kuala Lumpur; Malaysia;Choibalsan; Mongolia;21-November-2021;30-November-2021;10:00;17:00;MYR588;12.86
+AMG5462;Kuala Lumpur; Malaysia;Manila; Philippines;1-December-2021;9-December-2021;17:00;5:00;MYR282;6.17
+AMG8652;Kuala Lumpur; Malaysia;Taipei; Taiwan;24-November-2021;1-December-2021;19:00;3:00;MYR369;8.08
+AMG8421;Kuala Lumpur; Malaysia;Bandar Seri Begawan; Brunei;27-November-2021;3-December-2021;13:00;9:00;MYR419;9.16
+AMG7452;Kuala Lumpur; Malaysia;Batumi; Georgia;27-November-2021;5-December-2021;15:00;10:00;MYR836;18.30
+AMG7334;Kuala Lumpur; Malaysia;Tokyo; Japan;29-November-2021;8-December-2021;12:00;6:00;MYR608;13.31
+AMG5682;Kuala Lumpur; Malaysia;Mandalay; Myanmar;3-December-2021;8-December-2021;7:00;18:00;MYR302;6.60
+AMG8345;Kuala Lumpur; Malaysia;Singapore; Singapore;18-November-2021;22-November-2021;10:00;12:00;MYR40;0.87
+AMG6321;Kuala Lumpur; Malaysia;Bangkok; Thailand;20-November-2021;24-November-2021;1:00;23:00;MYR168;3.68
+AMG7543;Kuala Lumpur; Malaysia;Phnom Penh; Cambodia;25-November-2021;29-November-2021;21:00;2:00;MYR247;5.41
+AMG1843;Kuala Lumpur; Malaysia;Chennai; India;1-December-2021;6-December-2021;00:00;13:00;MYR721;15.77
+AMG1345;Kuala Lumpur; Malaysia;Seoul; South Korea;26-November-2021;4-December-2021;2:00;12:00;MYR527;11.53
+AMG2834;Kuala Lumpur; Malaysia;Dharavandhoo; Maldives;28-November-2021;6-December-2021;22:00;9:00;MYR363;7.93
+AMG8922;Kuala Lumpur; Malaysia;Bhadrapur; Nepal;30-November-2021;7-December-2021;14:00;7:00;MYR478;10.46
+AMG3854;Kuala Lumpur; Malaysia;Colombo; SriLanka;22-November-2021;30-November-2021;4:00;9:00;MYR858;18.76
+AMG4566;Kuala Lumpur; Malaysia;Ho Chi Minh City; Vietnam;24-November-2021;29-November-2021;19:00;10:00;MYR267;5.84
+AMG6723;Kuala Lumpur; Malaysia;Melbourne; Australia;30-November-2021;8-December-2021;6:00;16:00;MYR727;15.91
+AMG9065;Kuala Lumpur; Malaysia;Wellington; New Zealand;1-December-2021;10-December-2021;2:00;21:00;MYR1010;22.09
+AMG4782;Kuala Lumpur; Malaysia;New York City; United States;27-November-2021;9-December-2021;22:00;5:00;MYR1727;37.77
+AMG8917;Kuala Lumpur; Malaysia;London; United Kingdom;2-December-2021;11-December-2021;19:00;3:00;MYR1204;26.35
+AMG4247;Shanghai; China;Taipei; Taiwan;21-November-2021;28-November-2021;11:00;3:00;MYR79;1.72
+AMG1633;Bali; Indonesia;Chennai; India;19-November-2021;25-November-2021;23:00;11:00;MYR1050;22.97
+AMG6784;Tokyo; Japan;Seoul; South Korea;23-November-2021;30-November-2021;5:00;17:00;MYR131;2.87
+AMG5834;Singapore; Singapore;Bangkok; Thailand;20-November-2021;24-November-2021;15:00;1:00;MYR209;4.57
+AMG1873;Melbourne; Australia;New York City; United States;25-November-2021;6-December-2021;19:00;6:00;MYR1905;41.68
+AMG1873;Melbourne; Australia;New York City; United States;26-November-2021;7-December-2021;19:00;6:00;MYR1925;41.68
+AMG1875;Kuala Lumpur; Malaysia;Penang; Malaysia;26-November-2021;28-November-2021;15:00;18:00;MYR82;0.89
+AMG1875;Kuala Lumpur; Malaysia;Penang; Malaysia;11-December-2021;23-December-2021;15:00;17:00;MYR90;0.89
